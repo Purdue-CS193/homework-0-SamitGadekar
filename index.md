@@ -1,16 +1,15 @@
-# Welcome to GitHub Pages
-## Welcome to GitHub Pages
-### Welcome to GitHub Pages
+# Samit Gadekar's First CS193 Homework
 
-- Welcome to GitHub Pages
-- Welcome to GitHub Pages
+- I love the energy
+- I love the straightforwardness
 
 1. Welcome to GitHub Pages
 2. Welcome to GitHub Pages
 
-**Welcome to GitHub Pages**
-_Welcome to GitHub Pages_
-'Welcome to GitHub Pages'
+**Hello**
+_Sup?_
+`Yo`
+```Yoyo```
 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
